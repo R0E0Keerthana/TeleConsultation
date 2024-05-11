@@ -39,8 +39,7 @@ function TelehealthBooking() {
  }
  alert(`Thank you for your appointment request!
 We will contact you shortly to confirm your booking details.
-Your appointment is for ${specialty} with ${doctor || 'any available doctor'} on ${date} at 
-${time}`);
+Your appointment is for ${specialty} with ${doctor || 'any available doctor'} on ${date} at ${time}`);
  };
  return (
  <div className="booking-container">
