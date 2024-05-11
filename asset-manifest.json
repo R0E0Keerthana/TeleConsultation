@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TeleConsultation/static/css/main.1cf3b532.css",
+    "main.js": "/TeleConsultation/static/js/main.0690e3c0.js",
+    "index.html": "/TeleConsultation/index.html",
+    "main.1cf3b532.css.map": "/TeleConsultation/static/css/main.1cf3b532.css.map",
+    "main.0690e3c0.js.map": "/TeleConsultation/static/js/main.0690e3c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf3b532.css",
+    "static/js/main.0690e3c0.js"
+  ]
+}
